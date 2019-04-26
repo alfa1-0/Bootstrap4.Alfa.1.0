@@ -198,6 +198,14 @@
   padding-bottom: 30px;
   margin-top: -277px; }
 
+  .presentation-page .sectionnew-cards + .section-content {
+    background:url('../img/mahasiswa.jpg'), rgba(0, 0, 0, 0.589);
+    background-blend-mode:multiply;
+    background-size:cover;
+    padding-top: 100px;
+    padding-bottom: 5px; }
+  
+
 .loader {
   position:fixed;
   left:0px;
